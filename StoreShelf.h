@@ -19,4 +19,4 @@ private:
     MusicBox *contents;
 };
 
-#endif // STORESHELF_H
+#endif
