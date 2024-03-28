@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 int main() {
-StoreShelf StoreShelf(2);
+StoreShelf StoreShelf(9);
 MusicBox m1("songname1", 5);
 MusicBox m2("songname2", 3);
 MusicBox m3("songname3", 7);
